@@ -12,7 +12,7 @@
   "main": "./index.js",
   "dependencies": {
     "video.js": "5.10.8",
-    "videojs-contrib-hls": "3.5.2",
+    "videojs-contrib-hls": "3.6.13",
     "videojs-contrib-ads": "3.3.12",
     "videojs-ima": "kmk-online/videojs-ima#feature-dispose"
   }
