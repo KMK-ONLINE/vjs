@@ -1,6 +1,6 @@
 {
-  "name": "@kmklabs/vjs-core-5.10.8-hls-3.5.2-ads-3.3.12-ima-2f3a06d",
-  "version": "1.0.4",
+  "name": "@kmklabs/vjs-core-5.10.8-hls-3.6.13-ads-3.3.12-ima-2f3a06d",
+  "version": "1.0.5",
   "license": "MIT",
   "engines": {
     "node": "4.4.7",
