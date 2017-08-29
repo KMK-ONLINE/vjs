@@ -1,6 +1,6 @@
 {
-  "name": "@kmklabs/vjs-core-5.10.8-hls-3.6.13-ads-3.3.12-ima-2f3a06d",
-  "version": "1.0.5",
+  "name": "@kmklabs/vjs-core-5.19.1-hls-5.8.3-ads-3.3.12-ima-2f3a06d",
+  "version": "1.0.6",
   "license": "MIT",
   "engines": {
     "node": "4.4.7",
@@ -11,8 +11,8 @@
   },
   "main": "./index.js",
   "dependencies": {
-    "video.js": "5.10.8",
-    "videojs-contrib-hls": "3.6.13",
+    "video.js": "5.19.1",
+    "videojs-contrib-hls": "5.8.3",
     "videojs-contrib-ads": "3.3.12",
     "videojs-ima": "kmk-online/videojs-ima#feature-dispose"
   }
