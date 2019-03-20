@@ -1,6 +1,6 @@
 {
-  "name": "@kmklabs/vjs-core-6.9.0-hls-5.8.3-ads-5.1.5-ima-628213d-dash-2.9.3",
-  "version": "2.0.1",
+  "name": "@kmklabs/vjs-core-6.9.0-hls-5.8.3-ads-6-ima-628213d-dash-2.9.3",
+  "version": "2.1.0",
   "license": "MIT",
   "engines": {
     "node": "8.9.4",
@@ -13,7 +13,7 @@
   "dependencies": {
     "video.js": "6.9.0",
     "videojs-contrib-hls": "5.8.3",
-    "videojs-contrib-ads": "5.1.5",
+    "videojs-contrib-ads": "^6",
     "videojs-contrib-dash": "2.9.3",
     "videojs-flash": "2.0.1",
     "videojs-ima": "kmk-online/videojs-ima#videojs-ima-1.x"
